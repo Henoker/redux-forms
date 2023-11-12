@@ -1,8 +1,11 @@
 import React from 'react'
+import { Tabs } from '../components/Tabs'
 
 const HomePage = () => {
   return (
-    <div>HomePage</div>
+    <div>
+      <Tabs/>
+    </div>
   )
 }
 
